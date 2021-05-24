@@ -5,7 +5,13 @@ This is a simple and short presentation of OpenSearch project by Amazon for the 
 This is just a informative slideshow with the main events that brought to OpenSearch.
 
 ## Usage
-For the most immersive tutorial, please setup Jupyter Notebook and run the notebook provided. It contains interactive code snippets!
+
+### Live slideshow
+>You can checkout the live slideshow at the following link: [Click Here](https://lightdestory.github.io/OpenSearch-Presentation/#/). The interactive code doesn't work here.
+
+### Jupyter Notebook
+>For the most immersive tutorial, please setup Jupyter Notebook and run the notebook provided. It contains interactive code snippets!
+
 
 ## Information Sources
 * [OpenSearch Official Website](https://www.opensearch.org/)
